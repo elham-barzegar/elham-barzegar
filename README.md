@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there , I’m   *Elham* *Barzegar* 👋
 
-- 😄  I’m  **ELHAM**
-- 🌱 I’m currently learning REACT
+- 😄  I’m junior `frontend` developer
+- 🌱 I’m currently learning `React`
 
   
   ## React 
