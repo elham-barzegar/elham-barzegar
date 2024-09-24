@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**elham-barzegar/elham-barzegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄  I’m ELHAM
+- 🌱 I’m currently learning REACT
 
-Here are some ideas to get you started:
+  
+  
+<img src="https://sariasan.com/wp-content/uploads/2021/02/word-image-16.jpeg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=radical"/>
+
+  
+
+
