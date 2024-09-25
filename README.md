@@ -1,5 +1,5 @@
-## Hi there , I’m   *Elham* *Barzegar* 🙌
-
+## 🙌 &nbsp;  Hi there , I’m   *Elham* *Barzegar* 
+<br/>
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - 🎓 &nbsp; I’m `Software Engineer`
@@ -10,19 +10,20 @@
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
+<br/>
 
-  ## ⚛ React 
+  ## ⚛ &nbsp; React 
 
 <img src="https://sariasan.com/wp-content/uploads/2021/02/word-image-16.jpeg"/>
 
   <br/>
 
-## 👩‍💻 My Activity 
+## 👩‍💻 &nbsp; My Activity 
 <img src="https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=radical"/>
 
   <br/>
   
-## 💪 My Skills 
+## 💪 &nbsp; My Skills 
 
 - 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,7 +49,7 @@
 
 <br/>
 
-## 📱 Contact Me 
+## 📱 &nbsp; Contact Me 
 <a href="https://instagram.com/elham_ehs549"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
 <a href="https://t.me/elham_hasti"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
