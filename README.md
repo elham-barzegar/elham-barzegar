@@ -1,7 +1,7 @@
-## 🙌 &nbsp;  Hi there , I’m   *Elham* *Barzegar* 
+## 🙋‍♀️ &nbsp;  Hi , I’m   *Elham* *Barzegar* 
 
 
-<h3>👨‍💻 &nbsp; About Me</h3>
+<h3>👨‍💻  &nbsp; About Me</h3> 
 
 - 🎓 &nbsp; I’m `Software Engineer`
 - 👩🏻 &nbsp; I’m junior `frontend` developer
@@ -10,13 +10,11 @@
 - ✉️  You can contact me at [elhambarzegar.hs@gmail.com](mailto:elhambarzegar.hs@gmail.com)
 
 
-
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
 <br/>
 
   ## ⚛ &nbsp; React 
-
 <img src="https://sariasan.com/wp-content/uploads/2021/02/word-image-16.jpeg"/>
 
   <br/>
@@ -27,7 +25,6 @@
   <br/>
   
 ## 💪 &nbsp; My Skills 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,15 +54,6 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-
-
-
-
-
-
-
-
-
 
 <br/>
 
