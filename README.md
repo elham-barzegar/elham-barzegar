@@ -1,11 +1,14 @@
 ## 🙌 &nbsp;  Hi there , I’m   *Elham* *Barzegar* 
-<br/>
+
+
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - 🎓 &nbsp; I’m `Software Engineer`
 - 👩🏻 &nbsp; I’m junior `frontend` developer
 - ❄ &nbsp; I’m currently learning `React`
-- ✍️ &nbsp; `Coding` 💻 And Drinking `Coffee` ☕ Are My Hobby 
+- ✍️ &nbsp; `Coding` 💻 And Drinking `Coffee` ☕ Are My Hobby
+- ✉️  You can contact me at [elhambarzegar.hs@gmail.com](mailto:elhambarzegar.hs@gmail.com)
+
 
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
@@ -51,6 +54,7 @@
 
 ## 📱 &nbsp; Contact Me 
 <a href="https://instagram.com/elham_ehs549"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/elham_hasti"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+<a href="https://github.com/elham-barzegar" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="50px" height="50px" /></a>
+<a href="https://t.me/elham_hasti"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram"/></a>
 
 
