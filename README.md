@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; I’m `Software Engineer`
 - 👩🏻 &nbsp; I’m junior `frontend` developer
-- ❄ &nbsp; I’m currently learning `React`
+- ❄ &nbsp; I’m currently working `React`
 - ✍️ &nbsp; `Coding` 💻 And Drinking `Coffee` ☕ Are My Hobby
 - ✉️  You can contact me at [elhambarzegar.hs@gmail.com](mailto:elhambarzegar.hs@gmail.com)
 
