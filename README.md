@@ -13,8 +13,8 @@
 
 <br/>
 
-  ## ⚛ &nbsp; React 
-<img src="https://sariasan.com/wp-content/uploads/2021/02/word-image-16.jpeg"/>
+<!-- <img src="https://sariasan.com/wp-content/uploads/2021/02/word-image-16.jpeg"/>  
+  ## ⚛ &nbsp; React  -->
 
   <br/>
 
