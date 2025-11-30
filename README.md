@@ -18,10 +18,12 @@
 
   <br/>
 
-## 👩‍💻 &nbsp; My Activity 
+<!-- ## 👩‍💻 &nbsp; My Activity 
 <img src="https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=radical"/>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=transparent" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elham-barzegar&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elham-barzegar&layout=compact"/> -->
 
   <br/>
   
