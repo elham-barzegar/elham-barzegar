@@ -63,7 +63,7 @@
 ## 📱 &nbsp; Contact Me 
 
 <a href="https://instagram.com/elhambarzegar.hs"><img width="50px" height="50px" src="https://github.com/user-attachments/assets/e8274602-0bc1-4901-81ab-b2a1f0da1c7c" alt="Instagram" /></a>
-&nbsp; &nbsp; <a href="https://www.linkedin.com/in/elham-barzegar-021990362/"><img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="50px" height="50px" alt="linkdin"/></a>
+&nbsp; &nbsp; <a href="https://www.linkedin.com/in/elham-barzeghar/"><img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="50px" height="50px" alt="linkdin"/></a>
 &nbsp; &nbsp; <a href="https://github.com/elham-barzegar"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" width="60px" height="60px" alt="github"/></a>
 &nbsp; &nbsp; <a href="https://t.me/elham_b_hs"><img width="50px" height="50px" src="https://github.com/user-attachments/assets/9f33b61d-6ef5-45d6-94b9-25eec2138ad0" alt="Telegram"/></a>
 
