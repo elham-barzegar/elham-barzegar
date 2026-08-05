@@ -1,69 +1,100 @@
-## 🙋‍♀️ &nbsp;  Hi , I’m   *Elham* *Barzegar*  &nbsp;   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hi, I'm Elham Barzegar 👋
 
-<h3>👨‍💻  &nbsp; About Me</h3> 
+### Front-End Developer | React • Next.js • TypeScript
 
-- 🎓 &nbsp; I’m `Software Engineer`
-- 👩🏻 &nbsp; I’m senior `frontend` developer
-- ❄ &nbsp; I’m currently working `React`
-- ✍️ &nbsp; `Coding` 💻 And Drinking `Coffee` ☕ Are My Hobby
-- ✉️  You can contact me at [elhambarzegar.hs@gmail.com](mailto:elhambarzegar.hs@gmail.com)
+I’m a Front-End Developer with 8+ years of experience building fast, scalable, and user-centered web applications.
 
+I specialize in React, Next.js, TypeScript, and modern front-end architecture, with a strong focus on performance, accessibility, clean code, and exceptional user experiences.
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
+Currently, I'm exploring AI-assisted development and modern engineering practices to build smarter and more maintainable applications.
 
-<br/>
+---
 
-<!-- <img src="https://sariasan.com/wp-content/uploads/2021/02/word-image-16.jpeg"/>  
-  ## ⚛ &nbsp; React  -->
+## 🌐 Portfolio
 
-  <br/>
+🔗 https://elhambarzegar.ir
 
-<!-- ## 👩‍💻 &nbsp; My Activity 
-<img src="https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=radical"/>
-</br>
-<img src="https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=transparent" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elham-barzegar&layout=compact"/> -->
+---
 
-  <br/>
-  
-## 💪 &nbsp; My Skills 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- &nbsp; ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
- &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
- &nbsp; ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
- &nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 💼 Connect with Me
 
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/elham-barzeghar/
+
+- 📧 Email  
+  elhambarzegar.hs@gmail.com
+
+---
+
+## 🚀 Tech Stack
+
+### Front-End
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### State Management
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- &nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
- &nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
- &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- &nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+---
 
-<br/>
+## 📌 Featured Project
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+### 🚀 Personal Portfolio
 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+Modern portfolio built with:
 
-<br/>
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- Responsive Design
+- SEO Optimization
+- Open Graph
+- Schema.org
+- Google Analytics
+- Microsoft Clarity
 
-## 📱 &nbsp; Contact Me 
+🔗 Live Demo
 
-<a href="https://instagram.com/elhambarzegar.hs"><img width="50px" height="50px" src="https://github.com/user-attachments/assets/e8274602-0bc1-4901-81ab-b2a1f0da1c7c" alt="Instagram" /></a>
-&nbsp; &nbsp; <a href="https://www.linkedin.com/in/elham-barzeghar/"><img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="50px" height="50px" alt="linkdin"/></a>
-&nbsp; &nbsp; <a href="https://github.com/elham-barzegar"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" width="60px" height="60px" alt="github"/></a>
-&nbsp; &nbsp; <a href="https://t.me/elham_b_hs"><img width="50px" height="50px" src="https://github.com/user-attachments/assets/9f33b61d-6ef5-45d6-94b9-25eec2138ad0" alt="Telegram"/></a>
+https://elhambarzegar.ir
 
+---
+
+## 🌱 Currently Learning
+
+- AI-assisted Development
+- Advanced Next.js
+- Performance Optimization
+- Software Architecture
+- Modern Front-End Engineering
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elham-barzegar&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elham-barzegar&layout=compact&theme=transparent)
+
+---
+
+## 🤝 Let's Build Something Great Together!
+
+I'm always interested in collaborating on innovative products and joining teams that value clean code, great user experience, and continuous learning.
+
+Feel free to connect with me!
+
+⭐ If you like my work, don't forget to star my repositories.
