@@ -1,5 +1,4 @@
 &nbsp; 
-&nbsp; 
 # Hi, I'm Elham Barzegar 👋
 
 ## Front-End Developer | React • Next.js • TypeScript
@@ -102,3 +101,8 @@ A modern developer portfolio built with:
 ## ⭐ Let's Build Something Great Together
 
 I am always open to interesting projects, collaboration opportunities, and connecting with passionate technology teams.
+
+&nbsp; 
+
+![Project Preview](./homepage.png)
+
