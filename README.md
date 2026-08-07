@@ -18,7 +18,9 @@ I enjoy transforming complex ideas into intuitive digital products and continuou
 🔗 https://elhambarzegar.ir
 
 ---
-
+---
+[![Portfolio Preview](./homepage.png)]
+---
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on innovative web applications and connecting with developers, engineers, and technology teams.
@@ -102,7 +104,4 @@ A modern developer portfolio built with:
 
 I am always open to interesting projects, collaboration opportunities, and connecting with passionate technology teams.
 
-&nbsp; 
-
-![Project Preview](./homepage.png)
 
