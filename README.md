@@ -24,7 +24,7 @@ I enjoy transforming complex ideas into intuitive digital products and continuou
 I'm interested in collaborating on innovative web applications and connecting with developers, engineers, and technology teams.
 
 🟦 LinkedIn  
-https://www.linkedin.com/in/elham-barzeghar/
+https://www.linkedin.com/in/elhambarzegar/
 
 📧 Email  
 elhambarzegar.hs@gmail.com
